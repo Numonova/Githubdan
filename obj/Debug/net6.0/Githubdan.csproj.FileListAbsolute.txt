@@ -1,0 +1,14 @@
+D:\Projects\Githubdan\Githubdan\bin\Debug\net6.0\Githubdan.exe
+D:\Projects\Githubdan\Githubdan\bin\Debug\net6.0\Githubdan.deps.json
+D:\Projects\Githubdan\Githubdan\bin\Debug\net6.0\Githubdan.runtimeconfig.json
+D:\Projects\Githubdan\Githubdan\bin\Debug\net6.0\Githubdan.dll
+D:\Projects\Githubdan\Githubdan\bin\Debug\net6.0\Githubdan.pdb
+D:\Projects\Githubdan\Githubdan\obj\Debug\net6.0\Githubdan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Githubdan\Githubdan\obj\Debug\net6.0\Githubdan.AssemblyInfoInputs.cache
+D:\Projects\Githubdan\Githubdan\obj\Debug\net6.0\Githubdan.AssemblyInfo.cs
+D:\Projects\Githubdan\Githubdan\obj\Debug\net6.0\Githubdan.csproj.CoreCompileInputs.cache
+D:\Projects\Githubdan\Githubdan\obj\Debug\net6.0\Githubdan.dll
+D:\Projects\Githubdan\Githubdan\obj\Debug\net6.0\refint\Githubdan.dll
+D:\Projects\Githubdan\Githubdan\obj\Debug\net6.0\Githubdan.pdb
+D:\Projects\Githubdan\Githubdan\obj\Debug\net6.0\Githubdan.genruntimeconfig.cache
+D:\Projects\Githubdan\Githubdan\obj\Debug\net6.0\ref\Githubdan.dll
